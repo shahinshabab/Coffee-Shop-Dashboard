@@ -10,8 +10,7 @@ Instead of static screenshots, this repository includes an **interactive walkthr
 
 ## 🎥 Dashboard Walkthrough (Interactive Video)
 
-> 📂 Video file location:  
-> `screenshots/Coffes_Shop_Dashboard.gif`
+![Coffee Shop Dashboard Walkthrough](screenshots/Coffee_Shop_Dashboard.gif)
 
 https://github.com/shahinshabab/Coffee-Shop-Dashboard/blob/main/screenshots/Coffes_Shop_Dashboard.mp4
 
