@@ -13,7 +13,7 @@ Instead of static screenshots, this repository includes an **interactive walkthr
 > 📂 Video file location:  
 > `screenshots/Coffes_Shop_Dashboard.mp4`
 
-https://github.com/your-username/your-repository-name/raw/main/screenshots/Coffes_Shop_Dashboard.mp4
+https://github.com/shahinshabab/Coffee-Shop-Dashboard/blob/main/screenshots/Coffes_Shop_Dashboard.mp4
 
 *(If the video does not auto-play, click the link above to view it in full screen.)*
 
